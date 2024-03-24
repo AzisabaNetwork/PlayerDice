@@ -1,0 +1,4 @@
+name: PlayerDice
+version: '${project.version}'
+main: azisaba.playerdice.PlayerDice
+api-version: '1.15'
